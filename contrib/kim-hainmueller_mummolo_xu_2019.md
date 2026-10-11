@@ -1,5 +1,7 @@
 # Multiplicative Interaction Models
 
+**Contributor:** Hyeonbin Kim
+
 **Full citation:** Hainmueller, J., Mummolo, J., & Xu, Y. (2019). How much should we trust estimates from multiplicative interaction models? Simple tools to improve empirical practice. *Political Analysis*, 27(2), 163–192. https://doi.org/10.1017/pan.2018.46
 
 ---
